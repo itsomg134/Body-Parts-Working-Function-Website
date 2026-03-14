@@ -2,7 +2,6 @@
 
 An interactive educational website that explains how different human body parts work. Built with HTML, CSS, and JavaScript, this project presents anatomical information in an engaging, visual format with interactive demonstrations.
 
-![Body Parts Website Preview](https://via.placeholder.com/800x400?text=Body+Parts+Working+Function+Preview)
 
 ## Features
 
